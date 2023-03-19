@@ -1,0 +1,14 @@
+.tagline{
+    color: #E4E5EA;
+}
+.welbex{
+    background: linear-gradient(180deg,#FCB045, #FF3F78);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.txt{
+    color: #E4E5EA;
+}
+h5{
+    color: #656566;
+}

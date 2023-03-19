@@ -1,0 +1,14 @@
+.menuRight{
+    display: flex;
+    gap: 3rem;
+    padding-left: 100px;
+}
+.icon{
+    color: #E4E5EA;
+}
+.icon:hover {
+    cursor: pointer;
+}
+h5{
+    color: #656566;
+}

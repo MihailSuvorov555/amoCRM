@@ -1,0 +1,38 @@
+.footer{
+    padding-top: 90px;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.leftMenuFooter{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: start;
+}
+.rightMenuFooter{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: start;
+}  
+.btnFooter{
+    background-color: transparent;
+    color: #E4E5EA;
+    border: none;
+    cursor: pointer;
+}
+.mmenu{
+    display: flex; 
+    padding-left: 125px;
+    gap: 5rem;
+}
+.menu{
+    display: flex; 
+    padding-top: 10px;
+    padding-left: 125px;
+    gap: 5rem;
+    justify-content: center;
+}
+h5{
+    color: #656566;
+}

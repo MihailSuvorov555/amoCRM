@@ -1,0 +1,22 @@
+.menuLeft{
+    display: flex;
+    gap: 3rem;
+}
+.logo{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.textLogo{
+    color: gray;
+    text-decoration: none;
+}
+.Header{
+    background-color: transparent;
+    color: #E4E5EA;
+    border: none;
+    cursor: pointer;
+}
+h5{
+    color: #656566;
+}

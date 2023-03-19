@@ -1,0 +1,79 @@
+.product{
+    padding-top: 27px;
+    padding-left: 88px;
+}
+.productFlex{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    grid-auto-rows: minmax(50px, auto);
+}
+.item1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 1;
+    padding-left: 52px;
+    text-indent: 57px;
+}
+.item2{
+    padding-left: 100px;
+}   
+.item3{
+    padding-right: 135px;
+}
+.item4{
+    padding-left: 80px;
+}  
+.item5{
+    text-indent: 20px;
+}  
+.item6{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    padding-top: 25px;
+    padding-left: 67px;
+}
+.welbex{
+    background: linear-gradient(180deg,#FCB045, #FF3F78);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.indent{
+    text-indent: 21px;
+}
+.indent35{
+    text-indent: 35px;
+}
+.indentBusines{
+    text-indent: 8px;
+}
+.indentSale{
+    text-indent: 23px;
+}
+.indentSale1{
+    text-indent: 13px;
+}
+.identSolutions{
+    text-indent: 33px;
+}
+.indentCRM{
+    text-indent: 69px;
+}
+.identUse{
+    text-indent: 11px;
+}
+.consultation{
+    width: 250px;
+    height: 50px;
+    cursor: pointer;
+    background-color: #4077F3;
+    color: #E4E5EA;
+    justify-items: center;
+    border: none;
+}
+h5{
+    color: #656566;
+}
